@@ -1,4 +1,4 @@
 # StockAnalysis
 
-This program is for people who want to analaysis Japanese stocks.
+This program was mode for people who want to analaysis Japanese stocks.
 
