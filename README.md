@@ -1,5 +1,4 @@
 # StockAnalysis
-
 This project is a collection of Jupyter Notebooks for collecting and managing Japanese stock time series data, analyzing with technical indicators (such as moving averages, MACD, RSI, stochastics, etc.), detecting golden/dead crosses, and visualizing the results.
 
 ## Main Features
